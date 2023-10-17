@@ -1,4 +1,3 @@
-#3 Water Jug Problem
 
 a = int(input("Enter Jug A Capacity: "))
 b = int(input("Enter Jug B Capacity: "))
