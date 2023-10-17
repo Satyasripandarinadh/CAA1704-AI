@@ -1,4 +1,3 @@
-#4 Crypto Arithmetic Problem
 
 def is_valid_assignment(assignment, letters):
     # Check if the assignment is valid (no repeated digits)
